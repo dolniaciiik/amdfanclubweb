@@ -14,9 +14,9 @@
 [] **Alespoň jeden z dokumentů** obsahuje **tabulku**, která musí obsahovat jak běžné buňky, tak buňky hlavičky. V tabulce musí být alespoň jedna buňka roztažená přes více řádků.
 
 # web-pozadavky-css
-[] vse v `styles.css`
+[x] vse v `styles.css`
 [] css pro nastaveni textu (zarovnani, odsazeni, radkovani,...)
-[] pouzijte vnitrni odsazeni - `padding`, nastaveni okraje - `border`, vnejsi odsazeni - `margin`
+[x] pouzijte vnitrni odsazeni - `padding`, nastaveni okraje - `border`, vnejsi odsazeni - `margin`
 
 [] v selektorech alespon jednou kazdy elementarni typ
 [] pouzit v selektoru jeden netrivialni spojovaci operator - `>`, `~`, `+`
