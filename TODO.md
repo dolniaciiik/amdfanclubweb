@@ -7,7 +7,7 @@
 
 [x] **Alespoň jeden z dokumentů** obsahuje **článek**. Tedy používá element `article`, je vhodně dělený na `sections`, přičemž každá sekce má nejvýše jeden nadpis. Dále je text formátován na odstavce a uvnitř se nachází vhodné použití elementů upravujících význam textu (zvýraznění, označení ukázky kódu, citace, atp.).
 
-[] **Alespoň jeden z dokumentů** obsahuje **seznam vnořený** do jiného seznamu (číslovaný nebo nečíslovaný).
+[x] **Alespoň jeden z dokumentů** obsahuje **seznam vnořený** do jiného seznamu (číslovaný nebo nečíslovaný).
 
 [x] **Alespoň jeden z dokumentů** obsahuje **obrázek**. Soubory obrázků jsou součástí odevzdaného řešení a relativní URL na tyto soubory musí být platné. ReCodEx má omezenou kapacitu disku a propustnost sítě, takže je vhodné zvolit obrázek/ky přiměřené velikosti.
 
